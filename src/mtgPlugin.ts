@@ -6,6 +6,7 @@ export default class MtgPlugin {
     return [
       { id: 1, name: "Fog" },
       { id: 2, name: "Black Lotus" },
+      { id: 3, name: "Goblin Archers" },
     ];
   };
 }
