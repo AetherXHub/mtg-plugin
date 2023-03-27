@@ -1,0 +1,10 @@
+{
+  "name": "mtg-source-plugin",
+  "version": "1.0.0",
+  "author": "Travis Stanley <travis@aetherx.io>",
+  "description": "A simple plugin for loading cards as products from mtgJSON",
+  "main": "dist/mtgPlugin.js",
+  "config": {
+    "customValue": "123"
+  }
+}
